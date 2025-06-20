@@ -1,2 +1,2 @@
 # EsercitazioneFinale3LF
-Esercitazione Finale 3 di Ludovica Facchini
+Esercitazione Finale 3 di Ludovica Facchini -- Python
